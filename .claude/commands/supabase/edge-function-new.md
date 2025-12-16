@@ -1,3 +1,8 @@
+---
+description: Create a new Supabase Edge Function with Deno
+model: claude-sonnet-4-5
+---
+
 Create a new Supabase Edge Function.
 
 ## Function Specification

@@ -1,3 +1,8 @@
+---
+description: Generate TypeScript types from Supabase database schema
+model: claude-sonnet-4-5
+---
+
 Generate TypeScript types from the Supabase database schema.
 
 ## Command

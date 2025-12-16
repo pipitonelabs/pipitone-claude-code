@@ -1,3 +1,8 @@
+---
+description: Analyze and optimize code for performance, memory, and efficiency
+model: claude-sonnet-4-5
+---
+
 Optimize the following code for performance and efficiency.
 
 ## Code to Optimize

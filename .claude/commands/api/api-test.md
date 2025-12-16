@@ -1,3 +1,8 @@
+---
+description: Test API endpoints with automated test generation
+model: claude-sonnet-4-5
+---
+
 Generate comprehensive API tests for the specified endpoint.
 
 ## Target

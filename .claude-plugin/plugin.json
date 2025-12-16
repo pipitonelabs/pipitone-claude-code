@@ -36,6 +36,10 @@
       "args": ["-y", "@supabase/mcp-server-supabase@latest", "--access-token", "${SUPABASE_ACCESS_TOKEN}"],
       "description": "Supabase database operations and management"
     },
+    "shadcn": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://www.shadcn.io/api/mcp"]
+    },
     "vercel": {
       "command": "npx",
       "args": ["-y", "@robinson_ai_systems/vercel-mcp"],

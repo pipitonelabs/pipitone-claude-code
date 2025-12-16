@@ -1,3 +1,8 @@
+---
+description: Create a new React component with TypeScript and modern best practices
+model: claude-sonnet-4-5
+---
+
 Generate a new React component following 2025 best practices.
 
 ## Component Specification

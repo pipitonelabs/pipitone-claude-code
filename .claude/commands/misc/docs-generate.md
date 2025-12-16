@@ -1,3 +1,8 @@
+---
+description: Generate documentation for code, APIs, and components
+model: claude-sonnet-4-5
+---
+
 Generate comprehensive documentation for the following code.
 
 ## Code to Document

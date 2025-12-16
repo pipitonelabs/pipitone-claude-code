@@ -1,3 +1,8 @@
+---
+description: Plan feature implementation with technical specifications
+model: claude-sonnet-4-5
+---
+
 Create a detailed implementation plan for the following feature.
 
 ## Feature Description

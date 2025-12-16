@@ -1,3 +1,8 @@
+---
+description: Add authentication, authorization, and security to API endpoints
+model: claude-sonnet-4-5
+---
+
 Add comprehensive security, authentication, and authorization to the specified API route.
 
 ## Target API Route
