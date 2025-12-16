@@ -1,21 +1,23 @@
 {
-  "name": "pipitone-claude-code",
-  "owner": {
-    "name": "Joe",
-    "contact": "github.com/pipitonelabs"
-  },
+  "name": "pipitone-claude-code-marketplace",
   "description": "Joe's curated Claude Code setup for productive development, based on Edmund's",
+  "owner": {
+    "name": "Joe Pipitone",
+    "email": "joe@pipitonelabs.com"
+  },
   "plugins": [
     {
       "name": "pipitone-claude-code",
       "source": "./",
       "description": "Personal Claude Code configuration with 14 productivity commands and 11 specialized AI agents for modern web development",
-      "version": "1.0.0",
-      "author": {
-        "name": "Joe",
-        "email": "joe@pipitonelabs.com"
-      },
-      "tags": ["productivity", "nextjs", "supabase", "typescript", "react", "development"]
+      "keywords": [
+        "productivity",
+        "nextjs",
+        "supabase",
+        "typescript",
+        "react",
+        "development"
+      ]
     }
   ]
 }
