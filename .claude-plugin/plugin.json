@@ -24,7 +24,10 @@
     "context7": {
       "command": "npx",
       "args": ["-y", "@upstash/context7-mcp"],
-      "description": "Access up-to-date documentation for any library"
+      "description": "Access up-to-date documentation for any library",
+      "env": {
+        "UPSTASH_API_KEY": "${UPSTASH_API_KEY}"
+      }
     },
     "playwright": {
       "command": "npx",
@@ -34,12 +37,19 @@
     "supabase": {
       "command": "npx",
       "args": ["-y", "@supabase/mcp-server-supabase"],
-      "description": "Supabase database operations and management"
+      "description": "Supabase database operations and management",
+      "env": {
+        "SUPABASE_URL": "${SUPABASE_URL}",
+        "SUPABASE_API_KEY": "${SUPABASE_API_KEY}"
+      }
     },
     "vercel": {
       "command": "npx",
       "args": ["-y", "mcp-vercel"],
-      "description": "Manage Vercel deployments, projects, and environment variables"
+      "description": "Manage Vercel deployments, projects, and environment variables",
+      "env": {
+        "VERCEL_API_TOKEN": "${VERCEL_API_TOKEN}"
+      }
     }
   },
   "keywords": [
