@@ -7,7 +7,7 @@
   },
   "license": "MIT",
   "commands": "./.claude/commands/",
-  "agents": "./.claude/agents/",
+  "agents": "./.claude/agents/*.md",
   "mcpServers": {
     "context7": {
       "command": "npx",
