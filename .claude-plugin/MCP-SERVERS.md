@@ -1,6 +1,6 @@
 # MCP Servers Included
 
-This plugin includes 3 pre-configured MCP servers that enhance Claude Code's capabilities.
+This plugin includes 5 pre-configured MCP servers that enhance Claude Code's capabilities.
 
 ## Included Servers
 
@@ -47,13 +47,46 @@ This plugin includes 3 pre-configured MCP servers that enhance Claude Code's cap
 - Data queries
 - Admin operations
 
+### 4. **shadcn/ui** (`custom/shadcn-ui`)
+**Purpose**: Frontend component library for React
+
+**Capabilities**:
+- Access shadcn/ui component documentation and examples
+- Generate shadcn/ui components with proper TypeScript types
+- Component customization and styling guidance
+- Integration with Tailwind CSS
+- Modern React component patterns
+
+**Use Cases**:
+- Rapid UI component development
+- Modern React component library integration
+- Frontend project scaffolding
+- Component library documentation access
+- Type-safe component generation
+
+### 5. **Vercel** (`custom/vercel-mcp`)
+**Purpose**: Deployment platform integration and management
+
+**Capabilities**:
+- Vercel deployment configuration and management
+- Project deployment automation
+- Environment variable management
+- Domain and DNS configuration
+- Build and deployment status monitoring
+
+**Use Cases**:
+- Automated deployment workflows
+- Project deployment automation
+- Environment management
+- Build process optimization
+- CI/CD pipeline integration
+
 ## Servers Not Included (Not Yet Available)
 
 The following servers were requested but don't have official MCP implementations yet:
 
 - **chrome-devtools** - No official MCP server found
 - **stripe** - No official MCP server found (as of Oct 2025)
-- **vercel** - No official MCP server found
 
 ## Using MCP Servers
 

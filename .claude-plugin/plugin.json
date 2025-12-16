@@ -1,6 +1,6 @@
 {
   "name": "pipitone-claude-code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Joe's personal Claude Code setup with 14 productivity commands and 11 specialized AI agents for modern web development",
   "author": {
     "name": "Joe"
@@ -55,6 +55,9 @@
     "supabase",
     "typescript",
     "react",
+    "vite",
+    "vercel",
+    "shadcn",
     "api",
     "development",
     "mcp"

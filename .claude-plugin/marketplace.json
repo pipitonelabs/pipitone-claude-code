@@ -1,9 +1,9 @@
 {
   "name": "pipitone-claude-code-marketplace",
-  "description": "Joe's curated Claude Code setup for productive development, based on Edmund's",
+  "description": "Joe's Claude Code setup for productive development, based on Edmund's",
   "owner": {
-    "name": "Joe Pipitone",
-    "email": "joe@pipitonelabs.com"
+    "name": "Joe",
+    "email": "[none]"
   },
   "plugins": [
     {
@@ -16,6 +16,9 @@
         "supabase",
         "typescript",
         "react",
+        "vite",
+        "vercel",
+        "shadcn",
         "development"
       ]
     }
