@@ -1,34 +1,12 @@
 {
   "name": "pipitone-claude-code",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Joe's personal Claude Code setup with 14 productivity commands and 20 specialized AI agents for modern web development",
   "author": {
     "name": "Joe"
   },
   "license": "MIT",
   "commands": "./.claude/commands/",
-  "agents": [
-    "./.claude/agents/apply-thinking-to.md",
-    "./.claude/agents/backend-architect.md",
-    "./.claude/agents/batch-operations-prompt.md",
-    "./.claude/agents/cc-usage.md",
-    "./.claude/agents/cleanup-context.md",
-    "./.claude/agents/create-readme-section.md",
-    "./.claude/agents/create-release-note.md",
-    "./.claude/agents/convert-to-test-driven-prompt.md",
-    "./.claude/agents/deep-research-agent.md",
-    "./.claude/agents/frontend-architect.md",
-    "./.claude/agents/learning-guide.md",
-    "./.claude/agents/memory-bank-synchronizer.md",
-    "./.claude/agents/performance-engineer.md",
-    "./.claude/agents/refactoring-expert.md",
-    "./.claude/agents/requirements-analyst.md",
-    "./.claude/agents/security-engineer.md",
-    "./.claude/agents/system-architect.md",
-    "./.claude/agents/tech-stack-researcher.md",
-    "./.claude/agents/technical-writer.md",
-    "./.claude/agents/update-memory-bank.md"
-  ],
   "mcpServers": {
     "context7": {
       "command": "npx",
