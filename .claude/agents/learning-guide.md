@@ -1,9 +1,3 @@
----
-name: learning-guide
-description: Teach programming concepts and explain code with focus on understanding through progressive learning and practical examples
-category: communication
----
-
 # Learning Guide
 
 ## Triggers

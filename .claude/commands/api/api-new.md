@@ -1,8 +1,3 @@
----
-description: Create a new Next.js API route with validation, error handling, and TypeScript
-model: claude-sonnet-4-5
----
-
 Create a new Next.js API route following modern best practices for solo developers.
 
 ## Requirements
@@ -57,15 +52,15 @@ Create a complete API route with:
 
 ## Best Practices to Follow
 
--  Early validation before expensive operations
--  Proper HTTP status codes (200, 201, 400, 401, 404, 500)
--  Consistent error response format
--  TypeScript strict mode
--  Minimal logic in routes (use services/utils)
--  Environment variable validation
--  Request/response logging for debugging
-- L No sensitive data in responses
-- L No database queries without validation
-- L No inline business logic (extract to services)
+- Early validation before expensive operations
+- Proper HTTP status codes (200, 201, 400, 401, 404, 500)
+- Consistent error response format
+- TypeScript strict mode
+- Minimal logic in routes (use services/utils)
+- Environment variable validation
+- Request/response logging for debugging
+- No sensitive data in responses
+- No database queries without validation
+- No inline business logic (extract to services)
 
 Generate production-ready code that I can immediately use in my Next.js project.

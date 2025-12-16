@@ -1,8 +1,3 @@
----
-description: Run linting and fix code quality issues
-model: claude-sonnet-4-5
----
-
 Run linting and fix code quality issues in the codebase.
 
 ## Target

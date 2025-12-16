@@ -1,8 +1,3 @@
----
-description: Generate TypeScript types from Supabase database schema
-model: claude-sonnet-4-5
----
-
 Generate TypeScript types from the Supabase database schema.
 
 ## Command
@@ -90,13 +85,13 @@ Run `npm run gen-types` after:
 
 ### 5. **Best Practices**
 
--  Commit generated types to git
--  Run after schema changes
--  Use in all Supabase queries
--  Create helper types for common patterns
--  Keep types file in `lib/` or `types/`
-- L Don't manually edit generated file
-- L Don't use `any` instead of generated types
+- Commit generated types to git
+- Run after schema changes
+- Use in all Supabase queries
+- Create helper types for common patterns
+- Keep types file in `lib/` or `types/`
+- Don't manually edit generated file
+- Don't use `any` instead of generated types
 
 ### 6. **Integration with Pre-commit Hook**
 

@@ -1,8 +1,3 @@
----
-description: Test API endpoints with automated test generation
-model: claude-sonnet-4-5
----
-
 Generate comprehensive API tests for the specified endpoint.
 
 ## Target
@@ -78,16 +73,16 @@ describe('API Endpoint', () => {
 
 ## Key Testing Principles
 
--  Test behavior, not implementation
--  Clear, descriptive test names
--  Arrange-Act-Assert pattern
--  Independent tests (no shared state)
--  Fast execution (<5s for unit tests)
--  Realistic mock data
--  Test error messages
-- L Don't test framework internals
-- L Don't mock what you don't own
-- L Avoid brittle tests
+- Test behavior, not implementation
+- Clear, descriptive test names
+- Arrange-Act-Assert pattern
+- Independent tests (no shared state)
+- Fast execution (<5s for unit tests)
+- Realistic mock data
+- Test error messages
+- Don't test framework internals
+- Don't mock what you don't own
+- Avoid brittle tests
 
 ## Additional Scenarios to Cover
 

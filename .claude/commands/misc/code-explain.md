@@ -1,7 +1,3 @@
----
-model: claude-sonnet-4-5
----
-
 # Code Explanation and Analysis
 
 You are a code education expert specializing in explaining complex code through clear narratives, visual diagrams, and step-by-step breakdowns. Transform difficult concepts into understandable explanations for developers at all levels.
@@ -268,7 +264,7 @@ slow_function = timer(slow_function)
 
 **In this code**: The decorator is used to {specific_use_in_code}
 ''',
-'generators': '''
+        'generators': '''
 
 ## Understanding Generators
 
@@ -293,7 +289,7 @@ for num in count_up_to(5):
 
 **In this code**: The generator is used to {specific_use_in_code}
 '''
-}
+    }
 
     return explanations.get(concept, f"Explanation for {concept}")
 
@@ -363,7 +359,7 @@ class AlgorithmVisualizer:
 ### Call Stack Visualization:
 ````
 
-{func*name}({example_input})
+{func_name}({example_input})
 │
 ├─> Base case check: {example_input} == 0? No
 ├─> Recursive call: {func_name}({example_input - 1})
@@ -378,10 +374,9 @@ class AlgorithmVisualizer:
 │ │ │
 │ │ └─> Return: 1 * 1 = 1
 │ │
-│ └─> Return: 2 \_ 1 = 2
+│ └─> Return: 2 * 1 = 2
 │
-└─> Return: 3 \* 2 = 6
-
+└─> Return: 3 * 2 = 6
 ```
 
 **Final Result**: {func_name}({example_input}) = 6
@@ -714,7 +709,7 @@ except Exception as e:
 '''
 },
 {
-'pattern': r'def._\(\s_\):.\*global',
+'pattern': r'def_\(\s_\):.*global',
 'issue': 'Global variable usage',
 'severity': 'medium',
 'explanation': '''
