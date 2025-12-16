@@ -1,6 +1,6 @@
 # Joe's Claude Code Setup
 
-My personal Claude Code configuration for productive web development. This plugin provides **14 slash commands** and **159 specialized AI agents** to supercharge your development workflow. This is based on Edmund's setup.
+My personal Claude Code configuration for productive web development. This plugin provides **14 slash commands** and **159 specialized AI agents** to supercharge your development workflow. This is based on [edmund-io](https://github.com/edmund-io/edmunds-claude-code) and [0xfurai's](https://github.com/0xfurai/claude-code-subagents) repos.
 
 ## Quick Install
 
