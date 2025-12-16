@@ -6,8 +6,8 @@
     "name": "Joe"
   },
   "license": "MIT",
-  "commands": ".claude/commands/",
-  "agents": ".claude/agents/",
+  "commands": "./.claude/commands/",
+  "agents": "./.claude/agents/",
   "mcpServers": {
     "context7": {
       "command": "npx",
