@@ -48,7 +48,7 @@
       "args": ["-y", "mcp-vercel"],
       "description": "Manage Vercel deployments, projects, and environment variables",
       "env": {
-        "VERCEL_API_TOKEN": "${VERCEL_API_TOKEN}"
+        "VERCEL_ACCESS_TOKEN": "${VERCEL_ACCESS_TOKEN}"
       }
     }
   },
