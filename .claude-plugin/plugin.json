@@ -36,19 +36,15 @@
     },
     "supabase": {
       "command": "npx",
-      "args": ["-y", "@supabase/mcp-server-supabase"],
-      "description": "Supabase database operations and management",
-      "env": {
-        "SUPABASE_URL": "${SUPABASE_URL}",
-        "SUPABASE_API_KEY": "${SUPABASE_API_KEY}"
-      }
+      "args": ["-y", "@supabase/mcp-server-supabase@latest", "--access-token", "${SUPABASE_ACCESS_TOKEN}"],
+      "description": "Supabase database operations and management"
     },
     "vercel": {
       "command": "npx",
-      "args": ["-y", "mcp-vercel"],
+      "args": ["-y", "@robinson_ai_systems/vercel-mcp"],
       "description": "Manage Vercel deployments, projects, and environment variables",
       "env": {
-        "VERCEL_ACCESS_TOKEN": "${VERCEL_ACCESS_TOKEN}"
+        "VERCEL_TOKEN": "${VERCEL_TOKEN}"
       }
     }
   },
