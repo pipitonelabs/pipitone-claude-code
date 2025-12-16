@@ -23,11 +23,8 @@
   "mcpServers": {
     "context7": {
       "command": "npx",
-      "args": ["-y", "@upstash/context7-mcp"],
-      "description": "Access up-to-date documentation for any library",
-      "env": {
-        "UPSTASH_API_KEY": "${UPSTASH_API_KEY}"
-      }
+      "args": ["-y", "@upstash/context7-mcp", "--api-key", "${CONTEXT7_API_KEY}"],
+      "description": "Access up-to-date documentation for any library"
     },
     "playwright": {
       "command": "npx",
