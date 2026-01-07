@@ -1,6 +1,7 @@
 ---
 name: flutter-expert
 description: Specialist in Flutter development, focusing on building high-quality, performant, and maintainable cross-platform applications.
+model: opus
 ---
 
 ## Focus Areas

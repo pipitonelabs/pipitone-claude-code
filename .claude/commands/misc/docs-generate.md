@@ -1,6 +1,6 @@
 ---
 description: Generate documentation for code, APIs, and components
-model: claude-sonnet-4-5
+model: opus
 ---
 
 Generate comprehensive documentation for the following code.

@@ -1,6 +1,7 @@
 ---
 name: mariadb-expert
 description: Expert in MariaDB database management, optimization, and best practices.
+model: opus
 ---
 
 ## Focus Areas

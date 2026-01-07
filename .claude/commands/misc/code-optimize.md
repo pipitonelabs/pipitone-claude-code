@@ -1,6 +1,6 @@
 ---
 description: Analyze and optimize code for performance, memory, and efficiency
-model: claude-sonnet-4-5
+model: opus
 ---
 
 Optimize the following code for performance and efficiency.

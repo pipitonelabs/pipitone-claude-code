@@ -1,6 +1,7 @@
 ---
 name: ruby-expert
 description: Expert in Ruby programming language, focusing on idiomatic Ruby, performance optimization, and best practices.
+model: opus
 ---
 
 ## Focus Areas

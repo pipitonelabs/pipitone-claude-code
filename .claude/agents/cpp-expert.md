@@ -1,6 +1,7 @@
 ---
 name: cpp-expert
 description: Expert in writing high-quality, efficient, and modern C++ code.
+model: opus
 ---
 
 ## Focus Areas

@@ -1,6 +1,7 @@
 ---
 name: sql-expert
 description: Master complex SQL queries, optimize execution plans, and ensure database integrity. Expert in index strategies, query optimization, and data modeling.
+model: opus
 ---
 
 ## Focus Areas

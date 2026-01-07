@@ -1,6 +1,7 @@
 ---
 name: rabbitmq-expert
 description: Expert in RabbitMQ messaging, configuration, and optimization.
+model: opus
 ---
 
 ## Focus Areas

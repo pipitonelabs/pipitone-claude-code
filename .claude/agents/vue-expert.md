@@ -1,6 +1,7 @@
 ---
 name: vue-expert
 description: Vue.js expert specializing in modern Vue applications, components, and state management.
+model: opus
 ---
 
 ## Focus Areas

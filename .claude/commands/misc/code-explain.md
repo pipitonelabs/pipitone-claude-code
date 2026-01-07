@@ -1,5 +1,5 @@
 ---
-model: claude-sonnet-4-5
+model: opus
 ---
 
 # Code Explanation and Analysis

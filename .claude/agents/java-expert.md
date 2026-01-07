@@ -1,6 +1,7 @@
 ---
 name: java-expert
 description: Master Java developer specializing in writing efficient, clean, and maintainable Java code across various domains.
+model: opus
 ---
 
 ## Focus Areas

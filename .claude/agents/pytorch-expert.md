@@ -1,6 +1,7 @@
 ---
 name: pytorch-expert
 description: Expert in PyTorch for building and optimizing deep learning models.
+model: opus
 ---
 
 ## Focus Areas

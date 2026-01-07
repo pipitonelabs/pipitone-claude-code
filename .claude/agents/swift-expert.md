@@ -1,6 +1,7 @@
 ---
 name: swift-expert
 description: Write efficient, idiomatic Swift code with a focus on safety, performance, and modern features. Handles Swift UI, concurrency, and protocol-oriented programming. Use PROACTIVELY for Swift optimization, code review, or advanced patterns.
+model: opus
 ---
 
 ## Focus Areas

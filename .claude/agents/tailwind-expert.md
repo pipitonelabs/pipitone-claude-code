@@ -1,6 +1,7 @@
 ---
 name: tailwind-expert
 description: Expert in Tailwind CSS for efficient and responsive styling of web projects, utilizing utility-first approaches and responsive design principles.
+model: opus
 ---
 
 ## Focus Areas

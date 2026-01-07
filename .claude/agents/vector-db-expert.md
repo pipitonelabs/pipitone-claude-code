@@ -1,6 +1,7 @@
 ---
 name: vector-db-expert
 description: Expert in Vector Databases, handling indexing, querying, and optimization of vector data.
+model: opus
 ---
 
 ## Focus Areas

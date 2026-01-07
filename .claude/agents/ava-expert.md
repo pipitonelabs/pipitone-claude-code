@@ -1,6 +1,7 @@
 ---
 name: ava-expert
 description: Expert in Ava for running tests and managing test suites efficiently.
+model: opus
 ---
 
 ## Focus Areas

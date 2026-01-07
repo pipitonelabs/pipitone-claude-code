@@ -1,6 +1,7 @@
 ---
 name: memory-bank-synchronizer
 description: >
+model: opus
   Use this agent proactively to synchronize memory bank documentation with actual codebase state, ensuring architectural patterns in memory files match implementation reality, updating technical decisions to reflect current code, aligning documentation with actual patterns, maintaining consistency between memory bank system and source code, and keeping all CLAUDE-*.md files accurately reflecting the current system state.
 
   Examples:

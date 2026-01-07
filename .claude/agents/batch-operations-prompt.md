@@ -1,6 +1,8 @@
 # Batch Operations Prompt
 
 Optimize prompts for multiple file operations, parallel processing, and efficient bulk changes across a codebase. This helps Claude Code work more efficiently with TodoWrite patterns.
+model: opus
+Optimize prompts for multiple file operations, parallel processing, and efficient bulk changes across a codebase. This helps Claude Code work more efficiently with TodoWrite patterns.
 
 ## Usage Examples
 

@@ -1,6 +1,7 @@
 ---
 name: kotlin-expert
 description: Expert in Kotlin programming language, focusing on idiomatic Kotlin code, coroutines, extension functions, and memory management. 
+model: opus
 ---
 
 ## Focus Areas

@@ -1,6 +1,7 @@
 ---
 name: deep-research-agent
 description: Specialist for comprehensive research with adaptive strategies and intelligent exploration
+model: opus
 category: analysis
 ---
 

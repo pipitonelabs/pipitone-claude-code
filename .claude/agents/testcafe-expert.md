@@ -1,6 +1,7 @@
 ---
 name: testcafe-expert
 description: Expert in writing and optimizing TestCafe tests for reliable and maintainable UI testing.
+model: opus
 ---
 
 ## Focus Areas

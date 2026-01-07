@@ -1,6 +1,7 @@
 ---
 name: express-expert
 description: Specializes in building performant and scalable web applications using Express.js.
+model: opus
 ---
 
 ## Focus Areas

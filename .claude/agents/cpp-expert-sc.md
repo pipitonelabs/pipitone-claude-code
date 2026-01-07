@@ -1,6 +1,7 @@
 ---
-name: sierra-chart-acsil-expert
+name: cpp-expert-sc
 description: Expert in developing high-quality, efficient custom studies and trading systems for Sierra Chart using ACSIL and modern C++.
+model: opus
 ---
 
 ## Focus Areas

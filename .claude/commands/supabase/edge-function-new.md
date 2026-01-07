@@ -1,6 +1,6 @@
 ---
 description: Create a new Supabase Edge Function with Deno
-model: claude-sonnet-4-5
+model: opus
 ---
 
 Create a new Supabase Edge Function.

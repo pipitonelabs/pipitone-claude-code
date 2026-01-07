@@ -1,6 +1,7 @@
 ---
 name: mongoose-expert
 description: Mongoose ODM specialist for MongoDB, proficient in schema design, query optimization, and data validation.
+model: opus
 ---
 
 ## Focus Areas

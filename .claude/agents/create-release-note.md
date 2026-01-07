@@ -1,6 +1,8 @@
 # Release Note Generator
 
 Generate comprehensive release documentation from recent commits, producing two distinct outputs: a customer-facing release note and a technical engineering note.
+model: opus
+Generate comprehensive release documentation from recent commits, producing two distinct outputs: a customer-facing release note and a technical engineering note.
 
 ## Interactive Workflow
 

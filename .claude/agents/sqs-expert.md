@@ -1,6 +1,8 @@
 
     ---
     name: sqs-expert
+model: opus
+    name: sqs-expert
     description: Expertise in Amazon SQS for reliable, scalable message queuing. 
     ---
     

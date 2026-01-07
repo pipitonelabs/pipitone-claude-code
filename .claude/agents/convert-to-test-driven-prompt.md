@@ -1,6 +1,8 @@
 # Convert to Test-Driven Prompt
 
 Transform user requests into Test-Driven Development (TDD) style prompts that explicitly define expected outcomes, test cases, and success criteria before implementation.
+model: opus
+Transform user requests into Test-Driven Development (TDD) style prompts that explicitly define expected outcomes, test cases, and success criteria before implementation.
 
 ## Usage Examples
 

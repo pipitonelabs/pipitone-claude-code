@@ -1,6 +1,7 @@
 ---
 name: c-expert
 description: C language expert specializing in efficient, reliable systems-level programming.
+model: opus
 ---
 
 ## Focus Areas

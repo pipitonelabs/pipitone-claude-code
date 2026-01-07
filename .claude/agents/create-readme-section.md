@@ -1,6 +1,8 @@
 # Create README Section
 
 Generate a specific section for a README file based on the user's request. This command helps create well-structured, professional README sections that follow best practices.
+model: opus
+Generate a specific section for a README file based on the user's request. This command helps create well-structured, professional README sections that follow best practices.
 
 ## Usage Examples
 

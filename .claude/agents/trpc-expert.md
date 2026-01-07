@@ -1,6 +1,7 @@
 ---
 name: trpc-expert
 description: Expert in building reliable, efficient, and type-safe backend services using tRPC.
+model: opus
 ---
 ## Focus Areas
 - Understanding the fundamentals of tRPC

@@ -1,6 +1,7 @@
 ---
 name: gitlab-ci-expert
 description: Expert in configuring, optimizing, and maintaining GitLab CI/CD pipelines for efficient software delivery.
+model: opus
 ---
 
 ## Focus Areas

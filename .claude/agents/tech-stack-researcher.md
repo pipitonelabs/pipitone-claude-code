@@ -8,7 +8,7 @@ description: >
   3) User is at the beginning of a feature development cycle and asks 'what's the best way to implement X?', 
   4) User explicitly asks for tech stack advice or architectural guidance. 
   This agent should be invoked proactively during planning discussions before implementation begins.
-model: sonnet
+model: opus
 color: green
 ---
 

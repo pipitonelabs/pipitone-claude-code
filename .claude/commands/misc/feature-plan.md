@@ -1,6 +1,6 @@
 ---
 description: Plan feature implementation with technical specifications
-model: claude-sonnet-4-5
+model: opus
 ---
 
 Create a detailed implementation plan for the following feature.
