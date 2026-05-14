@@ -397,7 +397,7 @@ My personal Claude Code configuration for productive development. This plugin pr
 
 ```bash
 git clone https://github.com/pipitonelabs/pipitone-claude-code.git
-cd edmunds-claude-code
+cd pipitone-claude-code
 
 # Add as local marketplace
 /plugin marketplace add /path/to/pipitone-claude-code
